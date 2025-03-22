@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 I'm **Shubham**, a passionate developer based in **New Delhi, India**. I love building innovative solutions and
-exploring new technologies in the world of software development .
+exploring new technologies in the world of software development .  
 
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=shubham-042006&theme=radical" alt="shubham-042006" />
